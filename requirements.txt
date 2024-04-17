@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlmodel
+mysqlclient
+passlib
+bcrypt
+python-jose
+python-multipart
+pydantic[email]
